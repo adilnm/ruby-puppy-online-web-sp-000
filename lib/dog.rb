@@ -9,4 +9,6 @@ class Dog
   def self.all
     @@all.each{|x| puts "#{x}" }
   end
+  
+  def 
 end
